@@ -60,13 +60,13 @@
 -->
 ---
 
-### ℹ️ My stats:
+### ℹ️ My stats
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=yakan23&show_icons=true&locale=en" alt="yakan23" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=yakan23&show_icons=true&locale=en" alt="yakan23" /></p>
 
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=yakan23&" alt="yakan23" /></p>
 <br>
-<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yakan23&show_icons=true&locale=en&layout=compact" alt="yakan23" /></p>
- <hr>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yakan23&show_icons=true&locale=en&layout=compact" alt="yakan23" /></p>
+---
 <h5 align="center" id="aurevoir"> Yakan says Bye 👋 </h5>
