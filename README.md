@@ -7,9 +7,6 @@
   <a href="https://www.linkedin.com/in/zyad-yakan-2708a722b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.facebook.com/zyad.yakan23">
-    <img src="https://img.shields.io/badge/Facebook-red?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
   <br>
   <img align="center" src="https://komarev.com/ghpvc/?username=Yakan23&style=flat-square&color=blue" alt=""/>
 </div>
@@ -17,7 +14,7 @@
 
 ### :man_technologist: About Me
 
- I am an undegraduate computer engineering student at Ain Shams University majoring in data science, with the occassional tinkering with web development. I enjoy being able to solve the problems that faces me during my everday work (Thanks stackoverflow 👀). I consider myself a neat freak when it comes to formatting and readability.
+ I am a computer engineering graduate from Ain Shams University, I enjoy being able to solve the problems that faces me during my everday work (Thanks stackoverflow and GPT models 👀). I consider myself a neat freak when it comes to formatting and readability.
 
 ---
 
